@@ -1,0 +1,11 @@
+.react-board-holder {
+    background: #ddd;
+    height: 80vh;
+    width: 80vw;
+    padding: 10px;
+}
+
+.react-board {
+    background: #fff;
+    border-radius: 8px;
+}
